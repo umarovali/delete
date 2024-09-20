@@ -8,3 +8,12 @@
     width: 100%;
     margin: 0 auto;
 }
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
